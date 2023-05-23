@@ -6,7 +6,10 @@
 
 I'm anxbrt from India, and I really enjoy learning DSA & MERN stack. I aspire to be a WEB/APP developer.
 
-Skills: JAVA/ JS / HTML / CSS/ PYTHON/
+## Skills and Experrience
+💻 HTML,CSS,JS
+🐍 PYTHON
+💿 SQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Android Studio 
