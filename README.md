@@ -1,7 +1,7 @@
 ### Hi there 👋, Anubrat sahoo
 #### Design & Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anxbt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs,prs)
 
 I'm anxbrt from India, and I really enjoy learning DSA & MERN stack. I aspire to be a WEB/APP developer.
 
