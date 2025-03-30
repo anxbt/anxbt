@@ -6,12 +6,11 @@
 I'm anxbrt from India, and I really enjoy learning DSA & MERN stack. I aspire to be a WEB/APP developer.
 
 ## Skills and Experrience
-💻 HTML,CSS,JS
-🐍 PYTHON
-💿 SQL
+💻 P E R N
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Android Studio 
+
+- 🔭 I’m currently building a [SocialFi](https://x.com/moonforgefdn) and a LST aggregator platform. 
+- 🌱 I’m currently learning SOLANA
 - 😄 Pronouns: He/Him 
 
 
